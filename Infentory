@@ -1,0 +1,11 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main(){
+
+  cout << " Kelompok 4 Inventory Toko" << endl;
+  cout << " Monggo Bantu ngedit " << endl;
+
+}
